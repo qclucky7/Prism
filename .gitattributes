@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.ico binary
+*.icns binary
+# Keep pinned upstream bytes intact for SHA-256 validation.
+vendor/creepjs/** -text

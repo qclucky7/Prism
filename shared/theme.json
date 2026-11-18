@@ -1,0 +1,38 @@
+{
+  "font": "\"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+  "mono": "Consolas, \"SFMono-Regular\", monospace",
+  "radius": 6,
+  "controlHeight": 34,
+  "palettes": {
+    "light": {
+      "surface": "#ffffff",
+      "border": "#dedede",
+      "muted": "#595959",
+      "soft": "#f2f2f2",
+      "canvas": "#f6f6f6",
+      "text": "#171717",
+      "accent": "#262626",
+      "onAccent": "#ffffff",
+      "selected": "#e8e8e8",
+      "onSelected": "#171717",
+      "success": "#353535",
+      "warning": "#525252",
+      "error": "#171717"
+    },
+    "dark": {
+      "surface": "#1a1a1a",
+      "border": "#373737",
+      "muted": "#a6a6a6",
+      "soft": "#252525",
+      "canvas": "#111111",
+      "text": "#f5f5f5",
+      "accent": "#dedede",
+      "onAccent": "#171717",
+      "selected": "#363636",
+      "onSelected": "#ffffff",
+      "success": "#bfbfbf",
+      "warning": "#cecece",
+      "error": "#dedede"
+    }
+  }
+}
